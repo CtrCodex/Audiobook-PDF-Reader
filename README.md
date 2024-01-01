@@ -12,7 +12,7 @@ Transform your PDFs into audiobooks effortlessly with this simple Python script.
 
 ## Usage
 1. Replace `"your_sample.pdf"` with the path to your PDF file.
-2. Run the script: `python Intro-Audiobook.py` and or `python Basic-Audiobook.py
+2. Run the script: `python Intro-Audiobook.py` and or `python Basic-Audiobook.py`
 3. Find the generated audiobook as `output.mp3` or listen for the spoken audio.
 
 ## Enhancements
